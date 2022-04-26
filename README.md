@@ -1,1 +1,1 @@
-## Files are created to my OpenCV learning practices.
+## Files are created for my OpenCV learning practices.
