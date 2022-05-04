@@ -1,9 +1,9 @@
 import cv2
 
+maxType = 1
 maxScaleUp = 100
 scaleValue = 1
 scaleType = 0
-maxType = 1
 scaleFactor = 1.0
 
 windowName = "Resize Image"
